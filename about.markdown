@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Alexander and I am very interested in all things relating to Science, Technology, Engineering, and Mathematics. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am persuing Engineering as a career, and my goal is to enter the [Mechatronics Engineering](https://uwaterloo.ca/future-students/programs/mechatronics-engineering) program at the University of Waterloo.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I created this website to demonstrate my abilites in engineering, and how I can apply them to the projects I work on. Astrophotography is a hobby of mine, and I have found myself engineering many parts to improve the results of my images that I take.
 
+![Orion Nebula](/assets/Orion.jpg)
 
-[jekyll-organization]: https://github.com/jekyll
+The Orion Nebula - January 14th, 2023
+
+![Mars](/assets/mars.jpg)
+
+Mars - November 24th, 2022
+
+![C2022 E3](/assets/c2022.jpg)
+
+Commet C2022 E3 (ZTF) - February 7th, 2023
